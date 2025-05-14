@@ -23,7 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
-- Assignment and Communication
+- Assignment and Categorization
 - Working the Issue
 - Resolution
 
@@ -55,14 +55,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    - Working on the issue
      
-     After a ticket is assigned to a technician, the technician should review all details of the ticket and gather additional information if necessary to fully understand the issue. This is when an IT technician will truly begin to troubleshoot and diagnose the problem to find the root cause of the issue.
+     After a ticket is assigned to a technician, the technician should review all details of the ticket and gather additional information if necessary to fully understand the issue. This is when an IT technician will truly begin troubleshooting and diagnosing to find the root cause of the problem. 
 </p>
 <br />
 
+  
+
 <p>
-<img src="https://imgur.com/DWA9dup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Sp9tL1O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+   
+   - Resolution
+
+     Once the issue has been identified, the technician should start to implement the necessary fixes or solutions to resolve the ticket. Submitter of the ticket should be updated and given the resolution details. (The submitter of the ticket should always be up to date on the status and steps being taken to resolve their ticket)
+
+     
+</p>
+<img src="https://imgur.com/bOG2fLb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+-End
 </p>
 <br />
