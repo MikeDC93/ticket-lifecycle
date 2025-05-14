@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     
    - Assignment and Categorization
 
-     After receiving a support ticket further inspection of the ticket should help categorize the type of issue related to the ticket such ass hardware, software or issues with access exc... Further inspection should also help with knowing the tickets urgency and impact which inturn will help create the correct SLA. These categorizations should help assign an appropriate IT technician or administrator. other factors in assigning appropriate technicians  may include the technicians' workload, expertise or avalability.
+     After receiving a support ticket further inspection of the ticket should help categorize the type of issue related to the ticket such ass hardware, software or issues with access exc... Further inspection should also help with knowing the tickets urgency and impact which inturn will help create the correct SLA. These categorizations should help assign an appropriate IT technician or administrator. other factors in assigning appropriate technicians  may include the technicians' workload, expertise, or availability.
  
 </p>
 <br />
@@ -51,12 +51,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/ifKojmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+   - Working on the issue
+     
+     After a ticket is assigned to a technician, the technician should review all details of the ticket and gather additional information if necessary to fully understand the issue. This is when an IT technician will truly begin to troubleshoot and diagnose the problem to find the root cause of the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DWA9dup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
